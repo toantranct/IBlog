@@ -1,1 +1,1 @@
-Một sản phẩm của IDEA STUDIO
+Một sản phẩm của IDEAS STUDIO
