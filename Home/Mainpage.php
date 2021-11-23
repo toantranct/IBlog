@@ -161,8 +161,8 @@
                     Ngôn ngữ
                   </button>
                   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <li><a class="dropdown-item" href="#"><i class="flag flag-vietnam"></i> Vietnamese</a></li>
-                    <li><a class="dropdown-item" href="#"><i class="flag flag-united-kingdom"></i> English</a></li>
+                    <li><a class="dropdown-item" href="#"><i class="flag flag-vietnam"></i> Vietnamese </a></li>
+                    <li><a class="dropdown-item" href="#"><i class="flag flag-united-kingdom"></i> English </a></li>
                   </ul>
                 </div>
               </div>
@@ -203,23 +203,27 @@
         <div class="row">
           <div class="newpost col-md-8 mt-3 mb-3">
               <div class="newposttitle">
-                <h3 class="Title1 text-dark mt-3 mb-3" style="text-align: center;">
-                Có gì mới
-                </h3>
+                <h2 class="Title1 text-dark mt-3 mb-3" style="text-align: center;">
+                <strong>
+                  TIN MỚI
+                </strong>
+                </h2>
               </div>
-<!-- Bài đăng mới nhất -->
-              <div class="post1 m-3">       
+              <!-- Bài đăng mới nhất -->
+              <div class="post1 m-3"> 
                   <div class="row">
                     <div class="col-md-6">
-                      <img
-                        src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
-                        class="img-fluid rounded"
-                        alt=""
-                      />
+                      <a href="">
+                        <img
+                          src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                          class="img-fluid rounded"
+                          alt=""
+                        />
+                      </a>
                     </div>
                     <div class="col-md-6">
-                      <h4 class="posttitle1 text-dark">Tiêu đề</h4>
-                      <p>Đây là tóm tắt bài viết</p>
+                      <h4 class="posttitle1"><a class="text-dark" href="">Tiêu đề</a></h4>
+                      <p>Đây là tóm tắt bài viết ... <a class="text-primary" href=""><u>Xem thêm</u></a></p>
                       <p>by <a href="" class="text-warning">Nguyen Xuan Truong</a></p>
                       <i class="far fa-eye"> 1.2M </i>
                       <i class="fas fa-comment"> 576k </i>
@@ -237,15 +241,17 @@
               <div class="post2 m-3">     
                   <div class="row">
                     <div class="col-md-6">
-                      <img
-                        src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
-                        class="img-fluid rounded"
-                        alt=""
-                      />
+                      <a href="">
+                        <img
+                          src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                          class="img-fluid rounded"
+                          alt=""
+                        />
+                      </a>
                     </div>
                     <div class="col-md-6">
-                      <h4 class="posttitle1 text-light"> Tiêu đề </h4>
-                      <p class="text-light"> Đây là tóm tắt bài viết</p>
+                      <h4 class="posttitle1"><a class=" text-light" href="">Tiêu đề</a></h4>
+                      <p class="text-light"> Đây là tóm tắt bài viết ... <a class="text-warning" href=""><u>Xem thêm</u></a></p>
                       <i class="fas fa-clock text-light"> 23/11/2021 </i>
                     </div>
                   </div>
