@@ -204,15 +204,15 @@
           <div class="newpost col-md-8 mt-3 mb-3">
               <div class="newposttitle">
                 <h2 class="Title1 text-dark mt-3 mb-3" style="text-align: center;">
-                <strong>
-                  TIN MỚI
-                </strong>
+                  <strong>
+                    TIN MỚI
+                  </strong>
                 </h2>
               </div>
               <!-- Bài đăng mới nhất -->
               <div class="post1 m-3"> 
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                       <a href="">
                         <img
                           src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
@@ -221,17 +221,18 @@
                         />
                       </a>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-8">
                       <h4 class="posttitle1"><a class="text-dark" href="">Tiêu đề</a></h4>
                       <p>Đây là tóm tắt bài viết ... <a class="text-primary" href=""><u>Xem thêm</u></a></p>
                       <p>by <a href="" class="text-warning">Nguyen Xuan Truong</a></p>
-                      <i class="far fa-eye"> 1.2M </i>
+                      <i class="fas fa-eye"> 1.2M </i>
                       <i class="fas fa-comment"> 576k </i>
                       <i class="fas fa-share"> 28.9k </i>
                       <i class="fas fa-clock"> 23/11/2021 </i>
                     </div>
                   </div>
               </div>
+              <button type="button" class="btn btn-primary m-3">Next <i class="fas fa-long-arrow-alt-right"></i></button>
           </div>
 <!-- Kiến thức cơ bản -->
           <div class="oldpost col-md-4 bg-primary rounded mt-3 mb-3">
@@ -240,7 +241,7 @@
               </div>
               <div class="post2 m-3">     
                   <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-4">
                       <a href="">
                         <img
                           src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
@@ -249,9 +250,8 @@
                         />
                       </a>
                     </div>
-                    <div class="col-md-6">
-                      <h4 class="posttitle1"><a class=" text-light" href="">Tiêu đề</a></h4>
-                      <p class="text-light"> Đây là tóm tắt bài viết ... <a class="text-warning" href=""><u>Xem thêm</u></a></p>
+                    <div class="col-md-8">
+                      <h5 class="posttitle1"><a class=" text-light" href="">Tiêu đề</a></h5>
                       <i class="fas fa-clock text-light"> 23/11/2021 </i>
                     </div>
                   </div>
