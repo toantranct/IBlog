@@ -13,6 +13,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.0/mdb.min.css" rel="stylesheet"/>
     <!-- JS -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.0/mdb.min.js"></script>
+    <link rel="stylesheet" href="Mainpage-style.css">
 </head>
 <body>
     <header>
@@ -200,14 +201,14 @@
 <!-- Body -->
       <tbody class="allposts bg-light">
         <div class="row">
-          <div class="col-md-8">
-            <span class="border border-light">
+          <div class="newpost col-md-8">
               <div class="newposttitle">
-                <h3 class="Title1 text-dark" style="text-align: center;">Có gì mới</h3>
+                <h3 class="Title1 text-dark" style="text-align: center;">
+                Có gì mới
+                </h3>
               </div>
 <!-- Bài đăng mới nhất -->
-              <div class="post1">             
-                <span class="border border-light">
+              <div class="post1">       
                   <div class="row">
                     <div class="col-md-6">
                       <img
@@ -226,18 +227,13 @@
                       <i class="fas fa-clock">23/11/2021</i>
                     </div>
                   </div>
-                </span>
               </div>
-            </span>
           </div>
-          
-          <div class="col-md-4">
-            <span class="border border-light">
+          <div class="oldpost col-md-4" style="background-color: darkblue;">
               <div class="newposttitle">
-                <h3 class="Title1 text-dark" style="text-align: center;">Kiến thức cơ bản</h3>
+                <h3 class="Title2 text-light" style="text-align: center;">Kiến thức cơ bản</h3>
               </div>
-              <div class="post2">             
-                <span class="border border-light">
+              <div class="post2">     
                   <div class="row">
                     <div class="col-md-6">
                       <img
@@ -247,14 +243,12 @@
                       />
                     </div>
                     <div class="col-md-6">
-                      <h4 class="posttitle1">Tiêu đề</h4>
-                      <p>Đây là tóm tắt bài viết</p>
-                      <i class="fas fa-clock">23/11/2021</i>
+                      <h4 class="posttitle1 text-light">Tiêu đề</h4>
+                      <p class="text-light">Đây là tóm tắt bài viết</p>
+                      <i class="fas fa-clock text-light">23/11/2021</i>
                     </div>
                   </div>
-                </span>
               </div>
-            </span>
           </div>
         </div>
       </tbody>
