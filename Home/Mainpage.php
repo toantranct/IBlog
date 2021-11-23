@@ -203,7 +203,7 @@
         <div class="row">
           <div class="newpost col-md-8">
               <div class="newposttitle">
-                <h3 class="Title1 text-dark" style="text-align: center;">
+                <h3 class="Title1 text-dark mt-3 mb-3" style="text-align: center;">
                 Có gì mới
                 </h3>
               </div>
@@ -218,20 +218,21 @@
                       />
                     </div>
                     <div class="col-md-6">
-                      <h4 class="posttitle1">Tiêu đề</h4>
+                      <h4 class="posttitle1 text-dark">Tiêu đề</h4>
                       <p>Đây là tóm tắt bài viết</p>
                       <p>by <a href="" class="text-warning">Nguyen Xuan Truong</a></p>
                       <i class="far fa-eye"> 1.2M </i>
                       <i class="fas fa-comment"> 576k </i>
                       <i class="fas fa-share"> 28.9k </i>
-                      <i class="fas fa-clock">23/11/2021</i>
+                      <i class="fas fa-clock"> 23/11/2021 </i>
                     </div>
                   </div>
               </div>
           </div>
-          <div class="oldpost col-md-4" style="background-color: darkblue;">
+<!-- Kiến thức cơ bản -->
+          <div class="oldpost col-md-4 bg-primary rounded mt-3 mb-3">
               <div class="newposttitle">
-                <h3 class="Title2 text-light" style="text-align: center;">Kiến thức cơ bản</h3>
+                <h3 class="Title2 text-light mt-3 mb-3" style="text-align: center;">Kiến thức cơ bản</h3>
               </div>
               <div class="post2">     
                   <div class="row">
@@ -243,9 +244,9 @@
                       />
                     </div>
                     <div class="col-md-6">
-                      <h4 class="posttitle1 text-light">Tiêu đề</h4>
-                      <p class="text-light">Đây là tóm tắt bài viết</p>
-                      <i class="fas fa-clock text-light">23/11/2021</i>
+                      <h4 class="posttitle1 text-light"> Tiêu đề </h4>
+                      <p class="text-light"> Đây là tóm tắt bài viết</p>
+                      <i class="fas fa-clock text-light"> 23/11/2021 </i>
                     </div>
                   </div>
               </div>
