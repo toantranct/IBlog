@@ -201,14 +201,14 @@
 <!-- Body -->
       <tbody class="allposts bg-light">
         <div class="row">
-          <div class="newpost col-md-8">
+          <div class="newpost col-md-8 mt-3 mb-3">
               <div class="newposttitle">
                 <h3 class="Title1 text-dark mt-3 mb-3" style="text-align: center;">
                 Có gì mới
                 </h3>
               </div>
 <!-- Bài đăng mới nhất -->
-              <div class="post1">       
+              <div class="post1 m-3">       
                   <div class="row">
                     <div class="col-md-6">
                       <img
@@ -234,7 +234,7 @@
               <div class="newposttitle">
                 <h3 class="Title2 text-light mt-3 mb-3" style="text-align: center;">Kiến thức cơ bản</h3>
               </div>
-              <div class="post2">     
+              <div class="post2 m-3">     
                   <div class="row">
                     <div class="col-md-6">
                       <img
