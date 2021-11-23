@@ -149,6 +149,21 @@
                 <button type="button" class="btn btn-primary me-3">
                   Sign up for free
                 </button>
+                <div class="dropdown">
+                  <button
+                    class="btn btn-primary dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton"
+                    data-mdb-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Ngôn ngữ
+                  </button>
+                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <li><a class="dropdown-item" href="#"><i class="flag flag-vietnam"></i> Vietnamese</a></li>
+                    <li><a class="dropdown-item" href="#"><i class="flag flag-united-kingdom"></i> English</a></li>
+                  </ul>
+                </div>
               </div>
             </div>
             <!-- Collapsible wrapper -->
@@ -182,7 +197,12 @@
         <!-- Background image -->
       </header>
 
-      <tbody class="allposts"></tbody>
+      <tbody class="allposts bg-light">
+        <div class="row">
+          <div class="col-8">.col-8</div>
+          <div class="col-4">.col-4</div>
+        </div>
+      </tbody>
 
       <!-- Footer -->
         <footer class="text-center text-lg-start bg-light text-muted">
