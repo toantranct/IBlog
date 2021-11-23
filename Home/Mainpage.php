@@ -194,13 +194,68 @@
             </div>
           </div>
         </div>
-        <!-- Background image -->
+<!-- Background image -->
       </header>
 
+<!-- Body -->
       <tbody class="allposts bg-light">
         <div class="row">
-          <div class="col-8">.col-8</div>
-          <div class="col-4">.col-4</div>
+          <div class="col-md-8">
+            <span class="border border-light">
+              <div class="newposttitle">
+                <h3 class="Title1 text-dark" style="text-align: center;">Có gì mới</h3>
+              </div>
+<!-- Bài đăng mới nhất -->
+              <div class="post1">             
+                <span class="border border-light">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <img
+                        src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                        class="img-fluid rounded"
+                        alt=""
+                      />
+                    </div>
+                    <div class="col-md-6">
+                      <h4 class="posttitle1">Tiêu đề</h4>
+                      <p>Đây là tóm tắt bài viết</p>
+                      <p>by <a href="" class="text-warning">Nguyen Xuan Truong</a></p>
+                      <i class="far fa-eye"> 1.2M </i>
+                      <i class="fas fa-comment"> 576k </i>
+                      <i class="fas fa-share"> 28.9k </i>
+                      <i class="fas fa-clock">23/11/2021</i>
+                    </div>
+                  </div>
+                </span>
+              </div>
+            </span>
+          </div>
+          
+          <div class="col-md-4">
+            <span class="border border-light">
+              <div class="newposttitle">
+                <h3 class="Title1 text-dark" style="text-align: center;">Kiến thức cơ bản</h3>
+              </div>
+              <div class="post2">             
+                <span class="border border-light">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <img
+                        src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                        class="img-fluid rounded"
+                        alt=""
+                      />
+                    </div>
+                    <div class="col-md-6">
+                      <h4 class="posttitle1">Tiêu đề</h4>
+                      <p>Đây là tóm tắt bài viết</p>
+                      <i class="fas fa-clock">23/11/2021</i>
+                    </div>
+                  </div>
+                </span>
+              </div>
+            </span>
+          </div>
         </div>
       </tbody>
 
@@ -218,16 +273,16 @@
 
             <!-- Right -->
             <div>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.facebook.com/profile.php?id=100075393454255" class="me-4 text-reset">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.pinterest.com/12tru0n9nx/_saved/" class="me-4 text-reset">
                 <i class="fab fa-pinterest"></i>
               </a>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.youtube.com/watch?v=aCgP8BFjrw4" class="me-4 text-reset">
                 <i class="fab fa-google"></i>
               </a>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.instagram.com/truong_work/" class="me-4 text-reset">
                 <i class="fab fa-instagram"></i>
               </a>
             </div>
