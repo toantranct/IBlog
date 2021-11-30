@@ -215,15 +215,15 @@
                     <div class="col-md-4">
                       <a href="">
                         <img
-                          src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                          src="../IMG/lens.jpg"
                           class="img-fluid rounded"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="col-md-8">
-                      <h4 class="posttitle1"><a class="text-dark" href="">Tiêu đề</a></h4>
-                      <p>Đây là tóm tắt bài viết ... <a class="text-primary" href=""><u>Xem thêm</u></a></p>
+                      <h4 class="posttitle1"><a class="text-dark" href="">Vượt qua giới hạn của ống kính Kit: Ống kính Góc rộng và Tiêu chuẩn</a></h4>
+                      <p>Ống kính kit thường đi kèm với chiếc máy ảnh ống kính rời đầu tiên của bạn, cho dù đó là máy ảnh DSLR hay máy ảnh không gương lật ... <a class="text-primary" href=""><u>Xem thêm</u></a></p>
                       <p>by <a href="" class="text-warning">Nguyen Xuan Truong</a></p>
                       <i class="fas fa-eye"> 1.2M </i>
                       <i class="fas fa-comment"> 576k </i>
@@ -244,14 +244,14 @@
                     <div class="col-md-4">
                       <a href="">
                         <img
-                          src="https://mdbootstrap.com/img/new/standard/city/047.jpg"
+                          src="../IMG/photographer1.jpg"
                           class="img-fluid rounded"
                           alt=""
                         />
                       </a>
                     </div>
                     <div class="col-md-8">
-                      <h5 class="posttitle1"><a class=" text-light" href="">Tiêu đề</a></h5>
+                      <h6 class="posttitle1"><a class="text-light" href="">Chân Dung 50mm, Phong Cách Của Tôi: Tạo Ra Hình Ảnh Từ Kỷ Niệm</a></h6>
                       <i class="fas fa-clock text-light"> 23/11/2021 </i>
                     </div>
                   </div>
