@@ -206,9 +206,44 @@
             <div class="col-md-8">
                 <h2 class="Title1 text-dark mt-5 mb-5" style="text-align: center;">
                   <strong>
-                    Vượt qua giới hạn của ống kính Kit: Ống kính Góc rộng và Tiêu chuẩn
+                    TIÊU ĐỀ
                   </strong>
                 </h2>
+                <div>
+                  <p>
+                    (Mẫu) Ống kính kit thường đi kèm với chiếc máy ảnh ống kính rời đầu tiên của bạn, 
+                    cho dù đó là máy ảnh DSLR hay máy ảnh không gương lật. 
+                    Đối với những người mới học nhiếp ảnh, 
+                    những ống kính kit này rất tuyệt vời; 
+                    ống kính kit có nhiều lựa chọn từ cả góc rộng đến chụp tele, 
+                    cho phép người dùng khám phá tác động của những độ dài tiêu cự khác nhau đối với hình ảnh chụp được. 
+                    Nhưng khi tiến xa hơn trên hành trình nhiếp ảnh, 
+                    một số người dùng có thể sẽ khám phá ra một mảng nhỏ mà họ muốn tập trung phát triển. 
+                    Ví dụ: nếu bạn muốn tập trung chụp phong cảnh, bạn sẽ muốn đầu tư vào một ống kính góc rộng chuyên dụng. 
+                  </p>
+                  <p>
+                    Trong phần đầu tiên của loạt bài gồm hai phần này, 
+                    chúng ta sẽ khám phá các lựa chọn ống kính tiêu chuẩn và góc rộng cho bốn loại ngàm ống kính của Canon. 
+                    Và chúng ta sẽ không chỉ tìm hiểu những ống kính gắn trực tiếp, 
+                    mà cả cách lắp một số ống kính vào dòng ngàm khác nhờ bộ chuyển đổi ngàm. 
+                    Ví dụ: ngàm EF-M có thể nhận cả ống kính EF và EF-S khi dùng kèm với Bộ chuyển đổi ngàm EF-EOS M của Canon.
+                  </p>
+                </div>
+
+                <div>
+                  <p>
+                    Các bài viết tương tự:
+                  </p>
+                  <div>
+                    <div><a href="">Tiêu đề 1</a></div>
+                    <div><a href="">Tiêu đề 2</a></div>
+                    <div><a href="">Tiêu đề 3</a></div>
+                  </div>
+                </div>
+
+                <div class="mt-3 mb-3">
+                  <p>Comments: </p>
+                </div>
             </div>
             <div class="col-md-2"></div>
     </tbody>
