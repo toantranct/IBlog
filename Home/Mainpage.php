@@ -144,12 +144,6 @@
               <!-- Left links -->
 
               <div class="d-flex align-items-center">
-                <button type="button" class="btn btn-link px-3 me-2">
-                  Login
-                </button>
-                <button type="button" class="btn btn-primary me-3">
-                  Sign up for free
-                </button>
                 <div class="dropdown">
                   <button
                     class="btn btn-primary dropdown-toggle"
@@ -232,7 +226,7 @@
                     </div>
                   </div>
               </div>
-              <button type="button" class="btn btn-primary m-3">Next <i class="fas fa-long-arrow-alt-right"></i></button>
+              <button type="button" class="btn btn-primary m-3">Trang kế <i class="fas fa-long-arrow-alt-right"></i></button>
           </div>
 <!-- Kiến thức cơ bản -->
           <div class="oldpost col-md-4 bg-primary rounded mt-3 mb-3">
